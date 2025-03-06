@@ -84,6 +84,6 @@ router.delete('/:id',async (req,res) => {
   }
 })
 
-//commit added
+//comment is added fot testing purpose
 
 module.exports = router;
